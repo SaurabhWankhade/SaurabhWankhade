@@ -26,6 +26,6 @@
 
 📚 I'm a lifelong learner, always exploring new technologies and best practices. My code is clean, my solutions are efficient, and I'm ready to tackle any challenge.
 
-🌟 Let's collaborate and build amazing web applications together! Feel free to connect with me here on GitHub or reach out on [LinkedIn](www.linkedin.com/in/saurabh-wankhade-6a097a252).
+🌟 Let's collaborate and build amazing web applications together! Feel free to connect with me here on GitHub or reach out on [LinkedIn](in/saurabh-wankhade-6a097a252).
 
 🚀 Happy coding!
